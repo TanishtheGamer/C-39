@@ -15,11 +15,11 @@ var form, player, game;
 var cars, car1, car2, car3, car4;
 
 function preload(){
-  car1_img = loadImage("../images/car1.png")
-  car2_img = loadImage("../images/car2.png")
-  car3_img = loadImage("../images/car3.png")
-  car4_img = loadImage("../images/car4.png")
-  track_img = loadImage("../images/track.jpg")
+  car1_img = loadImage("images/car1.png")
+  car2_img = loadImage("images/car2.png")
+  car3_img = loadImage("images/car3.png")
+  car4_img = loadImage("images/car4.png")
+  track_img = loadImage("images/track.jpg")
 
   
 }
